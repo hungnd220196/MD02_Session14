@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b2e2d96-3817-4d4f-8156-226ba1889cdb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btth/business/design/IDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btth/business/design/IEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btth/business/design/IGenegicDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btth/business/designimpl/DepartmentImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btth/business/designimpl/EmployeeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btth/business/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btth/business/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btth/config/InputMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btth/config/ShopMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btth/presentation/DepartmentManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btth/presentation/EmployeeManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btth/presentation/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dzHFkkFWwzG5GvVmWIqMEGdBnO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bt1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bt2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bt4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bt5.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bt6.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bt9.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.btth.ra.presentation.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/IdeaProjects/MD2-JAVA/Session14/src/btth&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ADMIN/IdeaProjects/MD2-JAVA/Session14/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="btth.ra.business.designimpl" />
+      <recent name="bt6" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\IdeaProjects\MD2-JAVA\Session14\src\btth" />
+      <recent name="C:\Users\ADMIN\IdeaProjects\MD2-JAVA\Session14\src\btth\" />
+      <recent name="C:\Users\ADMIN\IdeaProjects\MD2-JAVA\Session14\src\btth\business" />
+      <recent name="C:\Users\ADMIN\IdeaProjects\MD2-JAVA\Session14\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.bt1.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="btth.presentation.Main" />
+      <module name="Session14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="btth.presentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bt1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bt1.Main" />
+      <module name="Session14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bt1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bt4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bt4.Main" />
+      <module name="Session14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bt4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bt9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bt9.Main" />
+      <module name="Session14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bt9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="btth.ra.presentation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="btth.ra.presentation.Main" />
+      <module name="Session14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="btth.ra.presentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.bt1.Main" />
+        <item itemvalue="Application.bt4.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.bt9.Main" />
+        <item itemvalue="Application.btth.ra.presentation.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b2e2d96-3817-4d4f-8156-226ba1889cdb" name="Changes" comment="" />
+      <created>1711003886544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711003886544</updated>
+      <workItem from="1711003887641" duration="12159000" />
+      <workItem from="1711059418246" duration="5169000" />
+      <workItem from="1711066261565" duration="388000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
